@@ -11,7 +11,7 @@ public class DemoUtils {
     private List<String> academyInList = List.of("luv", "2", "code");
 
     public List<String> getAcademyInList() {
-
+        System.out.println("Mrinal");
         return academyInList;
     }
 
